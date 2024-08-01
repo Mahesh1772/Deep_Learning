@@ -29,6 +29,32 @@ Welcome to my PyTorch learning journey! This repository serves as a comprehensiv
    - Data loading and batching strategies
    - Working with various data formats
 
+6. **Sorta-Bin: Waste Classification Project**
+   - Transfer Learning and Fine Tuning with VGG16
+   - Multi-class classification of 7 types of waste and recyclables
+   - Performance comparison between Transfer Learning and Fine Tuning
+
+## Sorta-Bin Project
+
+The Sorta-Bin project aims to classify different types of waste and recyclables using deep learning techniques. We've implemented two approaches using the VGG16 architecture:
+
+1. Transfer Learning
+2. Fine Tuning
+
+### Results
+
+#### Transfer Learning
+![Transfer Learning Confusion Matrix](Assets/Transfer_Learning_ConfusionMatrix.png)
+![Transfer Learning Loss and Accuracy](Assets/Transfer_Learning_Loss&Accuracy.png.png)
+
+#### Fine Tuning
+![Fine Tuning Confusion Matrix](Assets/Fine_Tuning_ConfusionMatrix.png)
+![Fine Tuning Loss and Accuracy](Assets/Fine_Tuning_Loss&Accuracy.png)
+
+Our experiments show that Fine Tuning slightly outperforms Transfer Learning, demonstrating the benefits of adapting pre-trained weights to our specific task.
+
+For more details on the Sorta-Bin project, please refer to our [project documentation](Assets/Sorta-Bin%20Product%20Details.pdf).
+
 ## Structure
 
 Each section contains:
