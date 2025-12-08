@@ -1,2 +1,4 @@
 
 *.pth
+/Jupyter NoteBooks/data
+/Jupyter NoteBooks/going_modular/__pycache__
