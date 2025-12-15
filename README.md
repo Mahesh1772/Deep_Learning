@@ -29,6 +29,26 @@ Welcome to my PyTorch learning journey! This repository serves as a comprehensiv
    - Data loading and batching strategies
    - Working with various data formats
 
+6. **PyTorch Modular Code**
+   - Converting notebook code to Python scripts
+   - Creating reusable modules for data, models, and training
+   - Structuring ML projects for production
+
+7. **PyTorch Transfer Learning**
+   - Using pretrained models
+   - Feature extraction and fine-tuning
+   - Adapting models to custom datasets
+
+8. **PyTorch Experiment Tracking**
+   - Tracking model experiments
+   - Comparing different model architectures
+   - Reproducibility with random seeds
+
+9. **PyTorch Paper Replication**
+   - Implementing research papers in code
+   - Vision Transformer (ViT) architecture
+   - Translating theory to practice
+
 ## Sorta-Bin Project: Waste Classification Project
 
    - Transfer Learning and Fine Tuning with VGG16
