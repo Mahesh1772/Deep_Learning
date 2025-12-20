@@ -37,7 +37,7 @@ def predict(image):
   start_time = timer()
 
   # Transfrom the image using VGG architecture
-  image = vgg_transforms(image).unsqueeze(0).to(device)
+  image = vgg_transforms(image).unsqueeze(0).to('cpu')
 
   # Put the model into eval mode and inference
   vgg.eval()

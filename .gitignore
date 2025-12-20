@@ -2,3 +2,4 @@
 *.pth
 /Jupyter NoteBooks/data
 /Jupyter NoteBooks/going_modular/__pycache__
+/Gradio_deployment
